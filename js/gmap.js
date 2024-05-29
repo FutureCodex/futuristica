@@ -1,4 +1,4 @@
-var mapLocation = new google.maps.LatLng(-37.816248, 144.965981); //change coordinates here
+var mapLocation = new google.maps.LatLng(-34.92145, -57.95453); //change coordinates here
 var marker;
 var map;
 function initialize() {
@@ -42,7 +42,7 @@ function initialize() {
     + '      <span class="text">incognitotheme@gmail.com</span>'
     + '   </span>'
     + '</div>' 
-    + '<p class="gmap-open"><a href="https://www.google.com/maps/@-37.824812,144.965981,14z?hl=ru-RU" target="_blank">Open on Google Maps</a></p></div>';
+    + '<p class="gmap-open"><a href="https://www.google.com/maps/@-34.92145,-57.95453,14z?hl=es-ES" target="_blank">Open on Google Maps</a></p></div>';
     
     
     var infowindow = new google.maps.InfoWindow({
