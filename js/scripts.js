@@ -539,7 +539,7 @@
 
 
 
-		$('#pp-nav').remove().appendTo('.animsition').prepend('<div class="pp-nav-up icon-chevron-up"></div>').append('<div class="pp-nav-down icon-chevron-down"></div>').addClass('white right-boxed hidden-xs');
+		$('#pp-nav').remove().appendTo('.animsition').prepend('<div class="pp-nav-up fa-solid fa-arrow-up fa-lg"></div>').append('<div class="pp-nav-down fa-solid fa-arrow-down fa-lg"></div>').addClass('white right-boxed hidden-xs');
 
 		$('.pp-nav-up').on('click', function(){
 			$.fn.pagepiling.moveSectionUp();

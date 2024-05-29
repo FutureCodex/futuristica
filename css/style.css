@@ -2331,12 +2331,12 @@ a.brand:focus{
 
 .review-carousel .owl-prev:before{
   font-family: 'Linearicons';
-  content: "\e93b";
+  content: "\e8a9";
 }
 
 .review-carousel .owl-next:before{
   font-family: 'Linearicons';
-  content: "\e93c";
+  content: "\e8a7";
 }
 
 .review-carousel .owl-prev:hover,
